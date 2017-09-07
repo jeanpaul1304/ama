@@ -12,7 +12,7 @@ I get a lot of questions by email. This way anyone can read the answer.
 
 Subscribe for updates by [watching the repo](https://github.com/jeanpaul1304/ama/watchers).
 
-Anything means anything. Personal questions. Money. Life. Code. Whatever.
+Anything means anything. Personal questions. Money. Music. Life. Code. Whatever.
 
 #### Guidelines
 
@@ -23,7 +23,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Be civil and polite :)
 - I will not help you with a question that goes against my personal moral standards.
 
-*I can also be reached on [Twitter](https://twitter.com/jeanpaul1304) and [email](mailto:kent+ama@doddsfamily.us), but I prefer [this medium](https://github.com/jeanpaul1304/ama/issues/new). It's often the only way I can justify taking the time to answer. Read: ["Hi, thanks for reaching out to me 👋"](https://medium.com/@jeanpaul1304/hi-thanks-for-reaching-out-to-me-d970e7e6632).*
+*I can also be reached on [Twitter](https://twitter.com/jeanpaul1304) and [email](mailto:jeanpaul1304@gmail.com), but I prefer [this medium](https://github.com/jeanpaul1304/ama/issues/new).
 
 ### Links
 
